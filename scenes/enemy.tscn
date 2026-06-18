@@ -44,7 +44,6 @@ animations = [{
 size = Vector2(10, 15)
 
 [node name="Enemy" type="Node2D" unique_id=307647016]
-z_index = 2
 script = ExtResource("1_4ra3w")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1296149141]
